@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "RNCourse",
+    "name": "My Recipe Book ",
     "slug": "RNCourse",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.kingsleychidubem.myrecipebook"
     },
     "web": {
       "favicon": "./assets/favicon.png"
